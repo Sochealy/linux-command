@@ -1,2 +1,3 @@
-# linux-command
-learn linux command
+# Linux Command
+
+My first Linux experience 
